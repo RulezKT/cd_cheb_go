@@ -1,4 +1,4 @@
-package chebyshev
+package cd_cheb_go
 
 //Chebyshev polynomials for calculating position and velocity of celestial objects
 // using NASA JPL ephemerides
